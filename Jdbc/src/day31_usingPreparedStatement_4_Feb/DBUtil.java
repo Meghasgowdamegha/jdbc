@@ -1,4 +1,4 @@
-package day30_usingPreparedStatement_3_Feb;
+package day31_usingPreparedStatement_4_Feb;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
@@ -8,7 +8,7 @@ import java.util.Properties;
 public class DBUtil {
 	private static final String DB_DRIVER_CLASS="com.mysql.cj.jdbc.Driver";
 	private static final String DB_USERNAME="root";
-	private static final String DB_PASSWORD="admin";
+	private static final String DB_PASSWORD="meghasreddy86@gmail.com";
 	private static final String DB_URL ="jdbc:mysql://localhost:3306/jdbcdb";
 	
 	private static Connection connection = null;

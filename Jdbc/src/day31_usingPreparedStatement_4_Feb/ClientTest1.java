@@ -1,4 +1,4 @@
-package day30_usingPreparedStatement_3_Feb;
+package day31_usingPreparedStatement_4_Feb;
 
 import java.sql.Connection;
 import java.sql.PreparedStatement;
